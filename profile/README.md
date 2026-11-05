@@ -14,7 +14,7 @@ We help startups, small businesses, and independent professionals simplify opera
 
 ### من نحن
 
-**OMS Shifra | شِفرة**
+<p dir="rtl" align="right"><strong>OMS شِفرة</strong></p>
 
 نساعد الشركات الناشئة والصغيرة وأصحاب الأعمال المستقلة على تطوير أعمالهم وتبسيط عملياتهم من خلال حلول تقنية عملية ومخصصة.
 
